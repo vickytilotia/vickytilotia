@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vickytilotia
-- 👀 I’m interested in Web Development, Python, Django, and Data.
+- 👀 I’m interested in Web Development, Python, Django, and Javascript.
 - 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on Python, django or web development.
 - 📫 My linked In profile -https://www.linkedin.com/in/vivek-kumar-004941145/
