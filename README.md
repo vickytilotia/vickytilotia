@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on
--     ```bash
--     **Python, Django, RestAPI, JWT, Flask, Scrapy, DRF,
--     JavaScript, NodeJs, ExpressJs**
--     ```
+ <h3 align="left">I’m currently working on :</h3>
+ 
+-    🔭 **Python, Django, Flask, Scrapy, Django Rest Framework**
+-    🔭 **JavaScript, NodeJs, ExpressJs, React, React-Redux**
+-    🔭 **RestAPI, JWT, MongoDB, MySQL, PostgreSQL, AWS, Heroku, Docker**
 
-- 🌱 I’m currently learning **React, FastAPI, JavaScript**
+
+- 🌱 I’m currently learning **NextJs, FastAPI, TypeScript**
 
 - 💬 Ask me about **Django,DRF,Python**
 
